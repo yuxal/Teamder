@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yuvalsela/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.3.0/8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c/bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-tasks-1.3.0-90b93bc3503ac4fef63889721827e4e4b288a43f.jar" />
+    </item>
+    <item
+        jar="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-9ef4ec914352676c7a7669e3698b737ce0f73b46.jar" />
+    </item>
+    <item
+        jar="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-c51328610f11db62bf4b3bfc829b9c945a1a8742.jar" />
+    </item>
+    <item
+        jar="/Users/yuvalsela/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-09ceba03a33aae1a3e333328016e9fa9d931f539.jar" />
+    </item>
+    <item
+        jar="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-db580136dd9dc9548be7f12c0e0dea1d1e44da07.jar" />
+    </item>
+    <item
+        jar="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-99b64cf4e6220e6fa7b28743a61ddb26cd230753.jar" />
+    </item>
+    <item
+        jar="/Users/yuvalsela/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.11.0/6592129dec2caa8791d322c7e4b6b7a30e8eadae/parse-android-1.11.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6592129dec2caa8791d322c7e4b6b7a30e8eadae">
+        <dex dex="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.11.0-502ea0be265ee3bccc9cef181d69791859082d1f.jar" />
+    </item>
+    <item
+        jar="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/yuvalsela/workspace/teamder/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-4a666a3ffda150566188c95850dafbfcd7b79b16.jar" />
+    </item>
+
+</items>
