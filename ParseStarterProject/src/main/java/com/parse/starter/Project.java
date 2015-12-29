@@ -48,7 +48,7 @@ public class Project extends ParseObject implements Serializable{
 		return members;
 	}
 
-	public void setMembers(ArrayList<String> members) {
+	public void setMembers(String members) {
 		put("members", members);
 	}
 	public ArrayList<String> getNeeded() {
@@ -64,7 +64,7 @@ public class Project extends ParseObject implements Serializable{
 		}
 		return needed;
 	}
-	public void setNeeded(ArrayList<String> needed) {
+	public void setNeeded(String needed) {
 		put("needed", needed);
 	}
 	public static ParseQuery<Project> getQuery() {

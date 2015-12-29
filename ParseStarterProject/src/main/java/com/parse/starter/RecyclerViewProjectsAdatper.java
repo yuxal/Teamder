@@ -33,7 +33,7 @@ public class RecyclerViewProjectsAdatper extends RecyclerView.Adapter<RecyclerVi
 				public void onClick(View v) {
 					Context context = v.getContext();
 					Intent viewProjectIntent = new Intent(context, ViewProjectActivity.class);
-					viewProjectIntent.putExtra(ViewProjectActivity.EXTRA_PROJECT, mProject);
+					viewProjectIntent.putExtra(ViewProjectActivity.EXTRA_PROJECT, mProject.getObjectId());
 					context.startActivity(viewProjectIntent);
 				}
 			});
